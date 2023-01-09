@@ -1,0 +1,8 @@
+have a gui where someone can choose a screen capture region for the minimap
+have a way for someone to input the session id
+disconnect from session id
+
+extremely quick
+maybe check authorization wtih microsoft login? to prevent possibilities of spamming the servers/hijacks
+
+is amount of information on minimap the same regardless of resoultion/fps/gui scale?
